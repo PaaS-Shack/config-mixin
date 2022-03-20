@@ -1,0 +1,23 @@
+{
+  "name": "config-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.mixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLYBYME/config-mixin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLYBYME/config-mixin/issues"
+  },
+  "homepage": "https://github.com/FLYBYME/config-mixin#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moleculer": "^0.14.19"
+  }
+}
